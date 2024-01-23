@@ -1,0 +1,9 @@
+{
+    "urls": [
+      ["adafruit_lsm9ds1.py", "github:prasanpro/Adafruit_CircuitPython_LSM9DS1/blob/main/adafruit_lsm9ds1.py"]
+    ],
+    "deps": [
+      ["senml", "0.1.0"]
+    ],
+    "version": "0.0.5"
+  }
